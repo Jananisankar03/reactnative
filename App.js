@@ -47,12 +47,12 @@ const styles = StyleSheet.create({
     flex: 1,
     padding: 16,
     backgroundColor: '#F7EDE2',
-    marginTop: 1,
   },
   title: {
     fontSize: 24,
     fontWeight: 'bold',
     marginBottom: 8,
+    marginTop: 20,
     textAlign: 'center',
     color: '#5E4A86',
   },
